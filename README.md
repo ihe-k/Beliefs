@@ -25,9 +25,11 @@ This repository encapsulates modelling on the evolution of group beliefs over ti
 * Libraries: NetworkX, Matplotlib, Seaborn, NumPy
 
 ## Highlights
-* Intervention Analysis: In-depth exploration of how "Correction Boosts" influence group belief systems.
-* Dynamic Visualisations: Interactive and static visualisations illustrating belief evolution and intervention impacts.
-* Comprehensive Documentation: Detailed explanations and instructions for replicating and extending the research.
+* Intervention Analysis: In-depth exploration of how "Correction Boosts" influence group belief systems
+*  Network modelling and simulation with NetworkX
+* Implementation of agent-based models incorporating probabilistic messaging and belief updating
+* Dynamic Visualisations: Animated and static visualisations illustrating belief evolution and intervention impacts using matplotlib and external tools (ImageMagick)
+* Misinformation Spread: The project ties into real-world issues of misinformation spread, understanding the roles of user interventions, fact-checking and official corrections
 
 ## Project Structure
 
