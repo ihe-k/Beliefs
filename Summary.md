@@ -22,4 +22,4 @@ This simulation models how individual beliefs evolve through social influence, t
 
 Belief Update Rule
 
-<img src="(https://github.com/ihe-k/Beliefs/)/blob/main/B_eq.png?raw=true" width="200" />
+<img src="https://github.com/ihe-k/Beliefs/blob/main/B_eq.png?raw=true" width="200" />
