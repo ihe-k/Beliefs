@@ -28,13 +28,13 @@ where:
 <img src="https://github.com/ihe-k/Beliefs/blob/main/B_2_eq.png?raw=true" width="200" />
 
 <ins>Modelling Neighbour Messages</ins>
-Each neighnour j send a message M**j**<sup>(**t**) that reflects their belief and the nature of the information (misinformation or correction).  It is probablistically determined based on their belief:
+Each neighnour j send a message M*j*<sup>(*t*) that reflects their belief and the nature of the information (misinformation or correction).  It is probablistically determined based on their belief:
 
 <img src="https://github.com/ihe-k/Beliefs/blob/main/B_3_eq.png?raw=true" width="200" />
 
 The likelihood of misinformation against correction depends on the misinformation rate and the neighbour's current belief.
 
-The average message received by agent **i** is:
+The average message received by agent *i* is:
 
 <img src="https://github.com/ihe-k/Beliefs/blob/main/B_4_eq.png?raw=true" width="200" />
 
