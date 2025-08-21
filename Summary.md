@@ -79,8 +79,8 @@ For each trust level, the agent interactions are simulated for 50 time steps and
 
 The plot shows a positive correlation between trust and the final average belief. As trust increases, agents become more willing to update their beliefs based on their neighbours.  As a result, there is faster convergence toward a consensus (correct belief).  At low trust levels (e.g., trust = 0.1 or 0.2), agents are more resistant to belief changes. Their beliefs might stay more divergent, and the overall final belief may be lower, reflecting greater uncertainty or spread of misinformation.  At high trust levels (e.g., trust = 0.8 or 0.9), agents tend to adopt beliefs more quickly, and the final belief across the group is likely to be more aligned with the truth (closer to 1.0), as agents trust their neighbours' corrections more.
 
-## Skills Demonstrated
-* Network modelling and simulation with NetworkX.
-* Implementation of agent-based models incorporating probabilistic messaging and belief updating.
-* Advanced data visualisation, including animated plots using matplotlib and external tools (ImageMagick).
-* Modular, well-documented Python scripting for reproducibility and future extensions.
+## Further Development
+* Study effects of misinformation rates
+* Incorporate more complex belief update rules
+* Use real social network data
+* Explore different network topologies
