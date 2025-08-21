@@ -18,7 +18,7 @@ This simulation models how individual beliefs evolve through social influence, t
 
 <ins>Belief Update Rule</ins>
 
-<img src="https://github.com/ihe-k/Beliefs/blob/main/B_eq.png?raw=true" width="300" />
+<img src="https://github.com/ihe-k/Beliefs/blob/main/B_eq.png?raw=true" width="250" />
 
 where:
 
@@ -37,7 +37,7 @@ The average message received by agent *i* is:
 
 where:
 
-<img src="https://github.com/ihe-k/Beliefs/blob/main/B_5_eq.png?raw=true" width="300" />
+<img src="https://github.com/ihe-k/Beliefs/blob/main/B_5_eq.png?raw=true" width="350" />
 
 <ins>Incorporating uncertainty</ins>  
 To emulate real-world variability, a small Gaussian node with a mean of 0 and a standard deviation of 0.02 is added:
