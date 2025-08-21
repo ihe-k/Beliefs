@@ -24,9 +24,27 @@ This repository encapsulates modelling on the evolution of group beliefs over ti
 * Programming Languages: Python
 * Libraries: NetworkX, Matplotlib, Seaborn, NumPy
 
-Project Structure
-
 ## Highlights
 * Intervention Analysis: In-depth exploration of how "Correction Boosts" influence group belief systems.
 * Dynamic Visualisations: Interactive and static visualisations illustrating belief evolution and intervention impacts.
 * Comprehensive Documentation: Detailed explanations and instructions for replicating and extending the research.
+
+## Project Structure
+
+## Prerequisites
+* Python 3.x
+* Required libraries: numpy, networkx, matplotlib
+* Install dependencies:
+
+```plaintext
+pip install numpy networkx matplotlib
+```
+
+## Running the Code
+* Save your Python script as belief_simulation.py.
+* Make sure ImageMagick is installed for GIF creation.
+* Run the script:
+
+```plaintext
+python belief_simulation.py
+```
