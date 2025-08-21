@@ -1,4 +1,4 @@
-# Modelling the Evolution of Beliefs
+# Modelling the Spread of Health Misinformation and Trust-Based Belief Updating in Gendered Digital Environments
 
 This repository encapsulates modelling on the evolution of group beliefs over time, focusing on the impact of interventions such as "Correction Boosts." Utilising agent-based modelling and network science, the project simulates belief propagation within social networks, offering insights into how interventions can influence collective belief systems.
 
