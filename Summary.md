@@ -27,8 +27,8 @@ where:
 
 <img src="https://github.com/ihe-k/Beliefs/blob/main/B_2_eq.png?raw=true" width="200" />
 
-<ins>Modelling Neighbour Messages</ins>
-Each neighnour j send a message M*j*<sup>(*t*) that reflects their belief and the nature of the information (misinformation or correction).  It is probablistically determined based on their belief:
+<ins>Modelling Neighbour Messages</ins> 
+Each neighbour *j* send a message M*j*<sup>(*t*) that reflects their belief and the nature of the information (misinformation or correction).  It is probablistically determined based on their belief:
 
 <img src="https://github.com/ihe-k/Beliefs/blob/main/B_3_eq.png?raw=true" width="200" />
 
