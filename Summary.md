@@ -33,7 +33,7 @@ The likelihood of misinformation against correction depends on the misinformatio
 
 The average message received by agent *i* is:
 
-<img src="https://github.com/ihe-k/Beliefs/blob/main/B_4_eq.png?raw=true" width="200" />
+<img src="https://github.com/ihe-k/Beliefs/blob/main/B_4_eq.png?raw=true" width="400" />
 
 where:
 
@@ -42,7 +42,7 @@ where:
 <ins>Incorporating uncertainty</ins>  
 To emulate real-world variability, a small Gaussian node with a mean of 0 and a standard deviation of 0.02 is added:
 
-<img src="https://github.com/ihe-k/Beliefs/blob/main/B_6_eq.png?raw=true" width="200" />
+<img src="https://github.com/ihe-k/Beliefs/blob/main/B_6_eq.png?raw=true" width="400" />
 
 This stochastic component ensures that beliefs may fluctuate and prevents deterministic convergence as well as capturing the variability inherent in social opinion dynamics.
 
