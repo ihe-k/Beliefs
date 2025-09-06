@@ -2,8 +2,6 @@
 
 This repository encapsulates modelling on the evolution of group beliefs over time, focusing on the impact of interventions such as "Correction Boosts." Utilising agent-based modelling and network science, the project simulates belief propagation within social networks, offering insights into how interventions can influence collective belief systems.
 
-[Link to App](https://social-contagion-gift-giving-simulation-bys7mmnchm6xnad4tllzxs.streamlit.app/)
-
 ## Research Objectives
 * Modelling Belief Dynamics: Develop agent-based models to simulate belief formation and evolution within groups.
 * Intervention Analysis: Assess the effectiveness of various interventions, including misinformation correction strategies, on altering group beliefs.
